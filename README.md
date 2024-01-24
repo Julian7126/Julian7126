@@ -23,8 +23,6 @@ Here are some ideas to get you started:
   
 - 📫 How to reach me: **julibischoff@gmail.com**;
 
-- ƒ My web [portafolio](https://portafolio-julian.vercel.app/).
-
 
 [portafolio](https://portafolio-julian.vercel.app/).
 # Academic studies :books:;
@@ -44,7 +42,7 @@ https://portafolio-julian.vercel.app/
   <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarioLopez18&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Julian7126/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=Julian7126)](https://github.com/Julian7126/github-readme-stats">
   <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=DarioLopez18&show_icons=true&theme=tokyonight" />
 </a>
 

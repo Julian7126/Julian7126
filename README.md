@@ -5,6 +5,7 @@
 <p align="rigth">
     <img
     src="https://giphy.com/embed/iLGZCQ7vcfdYEdGgZO" 
+ href="https://giphy.com/gifs/computer-rainbows-old-iLGZCQ7vcfdYEdGgZO"
     alt="fullstackdeveloper"
     width="360px"
     height="260px"
@@ -12,9 +13,7 @@
       
   
 
-/>
 </p>
-
 
 
 <h3 align="left">Talking about Personal Stuff:</h3>

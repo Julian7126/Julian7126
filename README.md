@@ -4,15 +4,12 @@
 
 <p align="rigth">
     <img
-    src="https://giphy.com/embed/iLGZCQ7vcfdYEdGgZO" 
- href="https://giphy.com/gifs/computer-rainbows-old-iLGZCQ7vcfdYEdGgZO"
+    src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47et0hgc27le4nfod5nyxlzd46mmyumfc2h1ma5h2s&ep=v1_gifs_search&rid=giphy.gif&ct=g"
     alt="fullstackdeveloper"
     width="360px"
     height="260px"
     align="right"
-      
-  
-
+/>
 </p>
 
 
@@ -22,36 +19,32 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **programming projects**;
   
-- 🌱 I’m currently learning **advanced backend development**;
+- 🌱 I’m currently learning **advanced Front and Back development**;
   
-- 👯 I’m looking to collaborate on **any backend project**;
+- 📫 How to reach me: **julibischoff@gmail.com**;
+
+- ƒ My web [portafolio](https://portafolio-julian.vercel.app/).
+
+
+[portafolio](https://portafolio-julian.vercel.app/).
+# Academic studies :books:;
   
-- 💬 Ask me about **anything, I am happy to help**;
-
-- 📫 How to reach me: **darioangellopez38@gmail.com**;
-
-# Academic studies :books:
-
-* Four year of Systems Engineering;
-  
-* CoderHouse backend-ecommerce development course;
+* CoderHouse Full Stack development ;
   
 * Autodidact;
   
-* Front end development on udemy;
-  
-* Pc repair course on udemy;
+* Front end development on Platzi and CoderHouse;
 
-# Curriculum Vitae
+# MY WEB
 
-* https://drive.google.com/file/d/119wPRdT_AQUjnv1NEaHHD93Us0nDd_Zz/view?usp=sharing
+https://portafolio-julian.vercel.app/
 
 # Stats 
-<a href="https://github.com/DarioLopez18/convoychat" align="center">
+<a href="https://github.com/Julian7126/convoychat" align="center">
   <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarioLopez18&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/DarioLopez18/github-readme-stats">
+<a href="https://github.com/Julian7126/github-readme-stats">
   <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=DarioLopez18&show_icons=true&theme=tokyonight" />
 </a>
 
@@ -63,13 +56,20 @@ Here are some ideas to get you started:
 * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 * ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 * ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-* ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+* ~~![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)~~
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 * ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 * ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 * ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 * ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-* ![Reat JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+* ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+* ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+* ![Handlebars](https://img.shields.io/badge/Handlebars-FF7A7A?style=for-the-badge&logo=handlebars&logoColor=white)
+* ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+* ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+* ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge)
 
 <p align="right">(<a href="#top">Volver Arriba</a>)</p>

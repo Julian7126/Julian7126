@@ -38,13 +38,6 @@ Here are some ideas to get you started:
 https://portafolio-julian.vercel.app/
 
 # Stats 
-<a href="https://github.com/Julian7126/convoychat" align="center">
-  <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarioLopez18&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api?username=Julian7126)](https://github.com/Julian7126/github-readme-stats">
-  <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=DarioLopez18&show_icons=true&theme=tokyonight" />
-</a>
 
 # Technologies :computer:
 
